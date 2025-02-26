@@ -2,6 +2,7 @@
 header {
   background-color: cadetblue;
   color: antiquewhite;
+  max-width: fit-content;
   text-align: center;
   padding: 10px;
   box-shadow: 0 0 10px rgb(0, 25, 25);
@@ -22,7 +23,7 @@ body {
 }
 
 h3 {
-  color: white;
+  color: black;
   text-shadow: 2px;
 }
 
@@ -62,4 +63,5 @@ footer {
   margin-top: 2rem;
   display: inline-block;
   box-shadow: 0 0 10px rgb(0, 25, 25);
+  max-width: fit-content;
 }
